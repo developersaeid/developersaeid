@@ -15,9 +15,8 @@ const response = {
     🎓 degree: "Bachelor of Information Technology";
     🏆 level: "Junior Front End developer",
     💻 languages: ["Typescript", "Javascript", "CSS", "HTML"],
-    ⚙️ tools: ["Tailwind","React","Redux","Next","Node","Styled-components","Strapi","Jest","Docker"],
+    ⚙️ tools: ["TailwindCSS","React.js","Redux","Next.js","Node.js","Jest","Cypress","GrapQL","Git","Docker","Kubernetes","Jira","AWS"],
     🥤 hobbies: ["podcast", "book", "movie", "hiking","GYM"],
-    🔍 currently: "Learning and gaining experience",
   },
 };
 ```
