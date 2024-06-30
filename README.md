@@ -44,4 +44,4 @@ const response = {
 
 <h3>⏰ WakaTime Stats :</h3>
 
-[![Saeed's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=idevgeek&theme=dark)](https://github.com/idevgeek/github-readme-stats)
+[![Saeid's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark)](https://github.com/saeiddeveloper/github-readme-stats)
