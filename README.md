@@ -11,7 +11,7 @@ As a 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, I s
 const response = {
   status: 202,
   data: {
-    🧑🏻‍💻 fullName: "Saeid Bahjat",
+    🧑🏻‍💻 fullName: "Saeid Behjat",
     🎓 degree: "Bachelor of Information Technology";
     🏆 level: "Junior Front End developer",
     💻 languages: ["Typescript", "Javascript", "CSS", "HTML"],
