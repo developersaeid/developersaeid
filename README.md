@@ -1,5 +1,6 @@
 <img src="https://github.com/developersaeid/developersaeid/blob/main/linkedin banner.png"/>
-![Uploading linkedin.png…]()
+<img src="(https://github.com/user-attachments/assets/c4ab9f4b-6c2a-48fd-8eaf-e8974d554859)"/>
+![linkedin](https://github.com/user-attachments/assets/c4ab9f4b-6c2a-48fd-8eaf-e8974d554859)
 
 ### Hi there 👋
 
