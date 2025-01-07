@@ -34,7 +34,7 @@ const response = {
   
 </div>
 
-<table>
+<table class="border-style:hidden;">
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=developersaeid&show_icons=true&theme=dark"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark)](https://github.com/developersaeid/github-readme-stats"/></td>
