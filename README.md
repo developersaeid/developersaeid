@@ -52,5 +52,5 @@ const response = {
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersaeid&show_icons=true&theme=dark)
 
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark)](https://github.com/developersaeid/github-readme-stats)
 
