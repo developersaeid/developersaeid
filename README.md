@@ -51,3 +51,6 @@ const response = {
 <h3>📊 Github Stats :</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersaeid&show_icons=true&theme=dark)
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper)](https://github.com/developersaeid/github-readme-stats)
