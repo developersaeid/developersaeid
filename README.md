@@ -26,7 +26,7 @@ const response = {
 
 
 <h3>📊 Github Stats :</h3>
-<div class="flex align-item-center">
+<div class="display:flex;">
   
 ![saeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersaeid&show_icons=true&theme=dark)
 
