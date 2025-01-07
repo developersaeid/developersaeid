@@ -20,7 +20,7 @@ const response = {
 ```
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,react&perline=3)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=developersaeid&style=flat-square)
 
