@@ -20,7 +20,7 @@ const response = {
 ```
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,react,js&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,aws,bootstrap,css,deno,docker,figma,flask,git,github,githubactions,gitlab,graphql,html,java,jenkins,jest,kafka,kubernetes,linux,mongodb,mysql,nestjs,nextjs,nodejs,npm,postgres,postman,prometheus,py,rabbitmq,sass,spring,tailwind,terraform,threejs,ts,ubuntu,vite,vscode,django,&perline=3)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=developersaeid&style=flat-square)
 
