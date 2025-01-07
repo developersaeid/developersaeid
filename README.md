@@ -6,7 +6,7 @@ As a 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, I s
 <h3>🔧 Skills :</h3>
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,aws,bootstrap,css,deno,docker,figma,flask,git,github,githubactions,gitlab,graphql,html,java,jenkins,jest,kafka,kubernetes,linux,mongodb,mysql,nestjs,nextjs,nodejs,npm,postgres,postman,prometheus,py,rabbitmq,sass,spring,tailwind,terraform,threejs,ts,ubuntu,vite,vscode,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,aws,bootstrap,css,deno,docker,figma,flask,git,github,githubactions,gitlab,graphql,html,java,jenkins,jest,kafka,kubernetes,linux,mongodb,mysql,nestjs,nextjs,nodejs,npm,postgres,postman,prometheus,py,rabbitmq,sass,spring,tailwind,terraform,threejs,ts,ubuntu,vite,vscode,django,materialui	)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=developersaeid&style=flat-square)
 
