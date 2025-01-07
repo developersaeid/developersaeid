@@ -27,8 +27,10 @@ const response = {
 
 <h3>📊 Github Stats :</h3>
 <div class="display:flex;">
+<img src="https://github-readme-stats.vercel.app/api?username=developersaeid&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark)](https://github.com/developersaeid/github-readme-stats"/>
   
-![saeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersaeid&show_icons=true&theme=dark)
+ ![saeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersaeid&show_icons=true&theme=dark)
 
 [![saeid's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark)](https://github.com/developersaeid/github-readme-stats)
   
