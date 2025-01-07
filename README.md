@@ -26,8 +26,13 @@ const response = {
 
 
 <h3>📊 Github Stats :</h3>
+<div class="flex align-item-center">
+  
+![saeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersaeid&show_icons=true&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersaeid&show_icons=true&theme=dark)
+[![saeid's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark)](https://github.com/developersaeid/github-readme-stats)
+  
+</div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark)](https://github.com/developersaeid/github-readme-stats)
+
 
