@@ -21,7 +21,7 @@ As a MEARN Stack Developer, I specialize in creating functional websites using ð
 
 ![saeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersaeid&show_icons=true&theme=dark)
 
-[![saeid's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark&width=30px)](https://github.com/developersaeid/github-readme-stats)
+[![saeid's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark&hide_rank)](https://github.com/developersaeid/github-readme-stats)
  
 </div>
 
