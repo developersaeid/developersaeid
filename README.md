@@ -31,12 +31,10 @@ As a MEARN Stack Developer, I specialize in creating functional websites using ð
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developersaeid&layout=compact&langs_count=8&card_width=250&theme=dark" />
 </a>
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/saeidbehjat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saeidbehjat" height="30" width="40" /></a>
 <a href="https://instagram.com/saeiddeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saeiddeveloper" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/saeiddeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saeiddeveloper" height="30" width="40" /></a>
 </p>
 
 
