@@ -21,14 +21,14 @@ As a MEARN Stack Developer, I specialize in creating functional websites using ð
 [![saeid's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark)](https://github.com/developersaeid/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=developersaeid&card_width=250" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=developersaeid&card_width=250&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developersaeid&layout=compact&langs_count=8&card_width=250" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developersaeid&layout=compact&langs_count=8&card_width=250&theme=dark" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=developersaeid&card_width=200" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=developersaeid&card_width=150" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark&card_width=200" />
