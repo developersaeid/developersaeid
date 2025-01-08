@@ -19,9 +19,9 @@ As a MEARN Stack Developer, I specialize in creating functional websites using ð
 <br/>
 <div class="display:flex;">
 
-![saeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersaeid&show_icons=true&theme=dark&size_weight=1)
+![saeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersaeid&show_icons=true&theme=dark&size_weight=0&count_weight=1)
 
-[![saeid's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark&size_weight=1)](https://github.com/developersaeid/github-readme-stats)
+[![saeid's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark&size_weight=0&count_weight=1)](https://github.com/developersaeid/github-readme-stats)
  
 </div>
 
