@@ -16,13 +16,13 @@ As a MEARN Stack Developer, I specialize in creating functional websites using �
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,materialui,react,nextjs,threejs,nodejs,nestjs,express,mongodb,mysql,postgres,kafka,rabbitmq,linux,git,github,gitlab,jenkins,docker,kubernetes,aws,prometheus,terraform,graphql,jest,postman,bash,vscode)](https://skillicons.dev)
 
 
-<h3>🔷<b>Wakatime Stats :</b></h3>
+<h3>🔷<b> Wakatime Stats :</b></h3>
 <br/>
 
 [![saeid's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark)](https://github.com/developersaeid/github-readme-stats)
 <br/>
 
-<h3>🔷<b>Github Stats :</b></h3>
+<h3>🔷<b> Github Stats :</b></h3>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=developersaeid&card_width=250&theme=dark" />
@@ -31,7 +31,7 @@ As a MEARN Stack Developer, I specialize in creating functional websites using �
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developersaeid&layout=compact&langs_count=8&card_width=250&theme=dark" />
 </a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔷<b> Connect with me :</b></h3>
 <p align="left">
 <a href="https://linkedin.com/in/saeidbehjat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saeidbehjat" height="30" width="40" /></a>
 <a href="https://instagram.com/saeiddeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saeiddeveloper" height="30" width="40" /></a>
