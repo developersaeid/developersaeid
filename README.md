@@ -9,22 +9,23 @@ As a MEARN Stack Developer, I specialize in creating functional websites using �
 ![](https://komarev.com/ghpvc/?username=developersaeid&style=flat-square)
 
 <br/>
-<h3>🔧 <b> Skills :</b> </h3>
+<h3>🔷<b> Skills :</b> </h3>
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,aws,bootstrap,css,deno,docker,figma,flask,git,github,githubactions,gitlab,graphql,html,java,jenkins,jest,kafka,kubernetes,linux,mongodb,mysql,nestjs,nextjs,nodejs,npm,postgres,postman,prometheus,py,rabbitmq,sass,spring,tailwind,terraform,threejs,ts,ubuntu,vite,vscode,django,materialui	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,materialui,react,nextjs,threejs,nodejs,nestjs,express,,mongodb,mysql,postgres,kafka,rabbitmq,linux,git,github,gitlab,jenkins,docker,kubernetes,aws,prometheus,terraform,graphql,jest,postman,bash,vscode)](https://skillicons.dev)
 
 
-
-
-<h3>📊<b> Github and Wakatime Stats : </b></h3>
+<h3>🔷<b> Github and Wakatime Stats : </b></h3>
 <br/>
 <div class="display:flex;">
 
 ![saeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersaeid&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developersaeid&layout=compact&theme=dark)
 [![saeid's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark)](https://github.com/developersaeid/github-readme-stats)
  
 </div>
+
+
 
 
 
