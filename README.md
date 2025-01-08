@@ -15,15 +15,14 @@ As a MEARN Stack Developer, I specialize in creating functional websites using �
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,materialui,react,nextjs,threejs,nodejs,nestjs,express,mongodb,mysql,postgres,kafka,rabbitmq,linux,git,github,gitlab,jenkins,docker,kubernetes,aws,prometheus,terraform,graphql,jest,postman,bash,vscode)](https://skillicons.dev)
 
 
-<h3>🔷<b> Github and Wakatime Stats :</b></h3>
+<h3>🔷<b>Wakatime Stats :</b></h3>
 <br/>
-<div class="display:flex;">
-
-![saeid's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersaeid&show_icons=true&theme=dark)
 
 [![saeid's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark)](https://github.com/developersaeid/github-readme-stats)
- 
-</div>
+
+
+ <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub"/>
+
 
 
 
