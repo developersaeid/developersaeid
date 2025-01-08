@@ -15,7 +15,7 @@ As a MEARN Stack Developer, I specialize in creating functional websites using ð
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,materialui,react,nextjs,threejs,nodejs,nestjs,express,mongodb,mysql,postgres,kafka,rabbitmq,linux,git,github,gitlab,jenkins,docker,kubernetes,aws,prometheus,terraform,graphql,jest,postman,bash,vscode)](https://skillicons.dev)
 
 
-<h3>ðŸ”·<b> Github and Wakatime Stats : </b></h3>
+<h3>ðŸ”·<b> Github and Wakatime Stats :</b></h3>
 <br/>
 <div class="display:flex;">
 
@@ -25,12 +25,6 @@ As a MEARN Stack Developer, I specialize in creating functional websites using ð
  
 </div>
 
-<table>
- <tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=developersaeid&show_icons=true&theme=dark"/></td>
-  <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark)](https://github.com/developersaeid/github-readme-stats"/></td>
- </tr>
-</table>
 
 
 
