@@ -24,13 +24,13 @@ Core Expertise :
 
 <br/>
 
-Why Work With Me ?
+Why Work With Me ? <br/>
 
-✅ Thrive in high-traffic environments, designing scalable and resilient architectures with strong observability.
-✅ Deep focus on performance optimization, security, and maintainability.
-✅ Effective collaborator in Agile teams (Scrum/Kanban), using Jira & Trello for seamless project management.
+✅ Thrive in high-traffic environments, designing scalable and resilient architectures with strong observability. <br/>
+✅ Deep focus on performance optimization, security, and maintainability. <br/>
+✅ Effective collaborator in Agile teams (Scrum/Kanban), using Jira & Trello for seamless project management. <br/>
 
-🚀 Always open to discussions about scalable architectures, DevOps, and backend performance optimization. Let’s talk!
+🚀 Always open to discussions about scalable architectures, DevOps, and backend performance optimization. Let’s talk! <br/>
 
 
 <br/>
