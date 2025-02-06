@@ -9,13 +9,13 @@ Previously, I worked extensively with React.js and TypeScript, which helped me d
 
 Core Expertise :
 
-🔹 Message Brokers & Event Systems: Kafka, RabbitMQ, Redis.
-🔹 Databases & ORM: PostgreSQL, MySQL, MongoDB (TypeORM, Sequelize).
-🔹 APIs & Protocols: REST, GraphQL, WebSockets.
-🔹 High-Performance & Scalability: CQRS, worker threads, Elasticsearch.
-🔹 DevOps & Infrastructure: Docker, Kubernetes, Terraform, AWS
-🔹 CI/CD & Monitoring: GitHub Actions, GitLab CI/CD, Prometheus, Grafana, ELK Stack.
-🔹 Security & Documentation: Swagger, OAuth, JWT
+🔹 Message Brokers & Event Systems: Kafka, RabbitMQ, Redis. <br/>
+🔹 Databases & ORM: PostgreSQL, MySQL, MongoDB (TypeORM, Sequelize). <br/>
+🔹 APIs & Protocols: REST, GraphQL, WebSockets.<br/>
+🔹 High-Performance & Scalability: CQRS, worker threads, Elasticsearch. <br/>
+🔹 DevOps & Infrastructure: Docker, Kubernetes, Terraform, AWS <br/>
+🔹 CI/CD & Monitoring: GitHub Actions, GitLab CI/CD, Prometheus, Grafana, ELK Stack. <br/>
+🔹 Security & Documentation: Swagger, OAuth, JWT <br/>
 
 <br/>
 
