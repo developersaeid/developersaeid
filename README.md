@@ -20,7 +20,7 @@ As a MERN Stack Developer, I specialize in creating functional websites using ğ
 <br/>
 
 [![saeid's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark)](https://github.com/developersaeid/github-readme-stats)
-
+[![Mohammad's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohammad_r97&theme=dark)](https://github.com/mohammadr1997/github-readme-stats)
 <br/>
 <h3>ğŸ”·<b> Github Stats :</b></h3>
 <br/>
