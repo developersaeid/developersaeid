@@ -3,7 +3,8 @@
 
 <img src ="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="20" height="20"/> 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲
 
-As a MERN Stack Developer, I specialize in creating functional websites using 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 and 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀. I am knowledgeable in Component-Based, 𝗦𝗣𝗔, and 𝗦𝗦𝗥 architectures, and I have a strong grasp of 𝗱𝗲𝘀𝗶𝗴𝗻 𝗽𝗮𝘁𝘁𝗲𝗿𝗻𝘀, 𝗦𝗢𝗟𝗜𝗗 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲𝘀, and 𝗰𝗹𝗲𝗮𝗻 𝗰𝗼𝗱𝗶𝗻𝗴. I excel in 𝗧𝗗𝗗 and am proficient with 𝗚𝗶𝘁, 𝗚𝗶𝘁𝗛𝘂𝗯, 𝗚𝗶𝘁𝗟𝗮𝗯, 𝗗𝗼𝗰𝗸𝗲𝗿, and 𝗖𝗜/𝗖𝗗 𝗺𝗲𝗰𝗵𝗮𝗻𝗶𝘀𝗺𝘀. Additionally, I am skilled in 𝗔𝗴𝗶𝗹𝗲 methodologies such as 𝗦𝗰𝗿𝘂𝗺.
+I'm a Backend Developer with a strong background in frontend (React.js & TypeScript), but my main focus now is building scalable and high-performance backend systems. I work with Node.js and NestJS, designing real-time applications, microservices, and event-driven architectures. I use GraphQL, WebSockets, Redis, RabbitMQ, Kafka, and Elasticsearch to handle high-traffic applications efficiently. I also implement CQRS, worker threads, and message queues for better scalability and performance. I am skilled in Docker, CI/CD, PostgreSQL, MySQL, MongoDB, and ORMs like TypeORM and Sequelize. I build APIs with Fastify and Express, handle authentication & security, and document everything with Swagger. I follow TDD, Agile (Scrum), and DevOps to make sure my apps are fast, scalable, and reliable.
+
 
 <br/>
 
