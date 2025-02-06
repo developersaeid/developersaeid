@@ -17,7 +17,12 @@ Core Expertise :
 🔹 CI/CD & Monitoring: GitHub Actions, GitLab CI/CD, Prometheus, Grafana, ELK Stack.
 🔹 Security & Documentation: Swagger, OAuth, JWT
 
+<br/>
+
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,materialui,react,nextjs,nodejs,nestjs,express,mongodb,mysql,postgres,kafka,rabbitmq,linux,git,github,gitlab,jenkins,docker,kubernetes,aws,prometheus,terraform,graphql,jest,postman,bash,vscode)](https://skillicons.dev)
+
+<br/>
 
 Why Work With Me ?
 
@@ -31,11 +36,6 @@ Why Work With Me ?
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=developersaeid&style=flat-square)
-
-<br/>
-<h3>🔷<b> Skills :</b> </h3>
-<br/>
-
 
 
 <br/>
@@ -52,9 +52,6 @@ Why Work With Me ?
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=developersaeid&card_width=250&theme=dark" />
 </a>
 
-<br/>
-<h3>🔷<b> Connect with me :</b></h3>
-<br/>
 
 
 
