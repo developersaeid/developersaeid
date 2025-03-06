@@ -38,21 +38,6 @@ Why Work With Me ? <br/>
 ![](https://komarev.com/ghpvc/?username=developersaeid&style=flat-square)
 
 
-<br/>
-<h3>🔷<b> Wakatime Stats :</b></h3>
-<br/>
-
-[![saeid's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saeiddeveloper&theme=dark)](https://github.com/developersaeid/github-readme-stats)
-
-<br/>
-<h3>🔷<b> Github Stats :</b></h3>
-<br/>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=developersaeid&card_width=250&theme=dark" />
-</a>
-
-
 
 
 
