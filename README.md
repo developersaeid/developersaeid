@@ -3,12 +3,12 @@
 
 <img src ="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="20" height="20"/> 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲
 
-Passionate about building high-performance backend ecosystems that power modern applications. I specialize in designing scalable microservices, event-driven architectures, and real-time systems using Node.js, NestJS, Kafka, RabbitMQ, and Redis.
-
-Previously, I worked extensively with React.js and TypeScript, which helped me design backend systems that seamlessly integrated with frontend needs.
+I work with the MERN stack, building full-stack web applications using MongoDB, Express, React, and Node.js. On the frontend, I use React, Next.js, and TypeScript to create clean and efficient user interfaces. On the backend, I design scalable APIs and systems using Node.js, NestJS, and message brokers like Kafka, RabbitMQ, and Redis. Experience with both frontend and backend allows me to design systems that are easy to maintain, integrate smoothly, and perform well under load.
 
 Core Expertise :
 
+🔹 Front End : Javascript, React js, Next js, ReactNative, Typescript, TailwindCSS. <br/>
+🔹 Back End: Nodejs, Expressjs, Nestjs. <br/>
 🔹 Message Brokers & Event Systems: Kafka, RabbitMQ, Redis. <br/>
 🔹 Databases & ORM: PostgreSQL, MySQL, MongoDB (TypeORM, Sequelize). <br/>
 🔹 APIs & Protocols: REST, GraphQL, WebSockets.<br/>
