@@ -20,7 +20,7 @@ Core Expertise :
 <br/>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,reactjs,nextjs,tailwindcss,MUI,nodejs,nestjs,express,mongodb,mysql,postgres,kafka,rabbitmq,linux,git,github,gitlab,jenkins,docker,kubernetes,aws,prometheus,terraform,graphql,jest,postman,bash,py,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwindcss,MUI,nodejs,nestjs,express,mongodb,mysql,postgres,kafka,rabbitmq,linux,git,github,gitlab,jenkins,docker,kubernetes,aws,prometheus,terraform,graphql,jest,postman,bash,py,vscode)](https://skillicons.dev)
 
 <br/>
 
