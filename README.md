@@ -11,7 +11,7 @@ Core Expertise :
 🔹 Front End : Javascript, React js, Next js, TailwindCSS. <br/>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss,git,github)](https://skillicons.dev)
 
 <br/>
 
