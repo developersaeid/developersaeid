@@ -16,7 +16,7 @@ Expertise: <br/>
 🔹Security & Documentation: Swagger, OAuth, JWT <br/>
 🔹Agile (Scrum) <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,nestjs,rabbitmq,kafka,postgres,mysql,mongodb,redis,graphql,elasticsearch,Docker,git,github,linux,prometheus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,nestjs,rabbitmq,kafka,postgres,mysql,mongodb,redis,graphql,elasticsearch,docker,git,github,linux,prometheus)](https://skillicons.dev)
 
 <br/>
 
